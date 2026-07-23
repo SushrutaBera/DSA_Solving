@@ -10,15 +10,15 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode nodei = head, nodej = head;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(nodej != null && nodej.next != null) {
-            nodei = nodei.next;
-            nodej = nodej.next;
-            if(nodej.next == null) break;
-            nodej = nodej.next;
+        // Loop as long as the fast pointer can make two steps
+        while (fast != null && fast.next != null) {
+            slow = slow.next;       // Move 1 step
+            fast = fast.next.next;  // Move 2 steps
         }
-        
-        return nodei;
+
+        return slow; // Sitting right on the middle node
     }
 }

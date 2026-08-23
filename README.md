@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SushrutaBera/DSA_Solving/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/SushrutaBera/DSA_Solving/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

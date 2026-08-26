@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SushrutaBera/DSA_Solving/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/SushrutaBera/DSA_Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SushrutaBera/DSA_Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SushrutaBera/DSA_Solving/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SushrutaBera/DSA_Solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SushrutaBera/DSA_Solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SushrutaBera/DSA_Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/SushrutaBera/DSA_Solving/tree/master/0205-isomorphic-strings) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SushrutaBera/DSA_Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SushrutaBera/DSA_Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SushrutaBera/DSA_Solving/tree/master/0268-missing-number) |
 ## Linked List
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SushrutaBera/DSA_Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SushrutaBera/DSA_Solving/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SushrutaBera/DSA_Solving/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/SushrutaBera/DSA_Solving/tree/master/0205-isomorphic-strings) |

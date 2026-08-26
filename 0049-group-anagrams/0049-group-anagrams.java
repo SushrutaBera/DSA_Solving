@@ -6,10 +6,8 @@ class Solution {
             String t = getSignature(strs[i]);
             if(!map.containsKey(t)) {
                 map.put(t, new ArrayList<>());   
-                map.get(t).add(strs[i]);
             }
-            else
-                map.get(t).add(strs[i]);
+            map.get(t).add(strs[i]);
         }
         return new ArrayList<>(map.values());
     }

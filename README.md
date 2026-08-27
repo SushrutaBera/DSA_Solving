@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SushrutaBera/DSA_Solving/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SushrutaBera/DSA_Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SushrutaBera/DSA_Solving/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/SushrutaBera/DSA_Solving/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/SushrutaBera/DSA_Solving/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SushrutaBera/DSA_Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SushrutaBera/DSA_Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/SushrutaBera/DSA_Solving/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/SushrutaBera/DSA_Solving/tree/master/2942-find-words-containing-character) |
@@ -104,6 +106,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SushrutaBera/DSA_Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SushrutaBera/DSA_Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/SushrutaBera/DSA_Solving/tree/master/1903-largest-odd-number-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SushrutaBera/DSA_Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
